@@ -1,4 +1,13 @@
-### Hi there 👋
+<b>O que fiz até aqui:</b>
+Entre 2009 e 2013 cursei Técnico Integrado em Telecomunicações no Instituto Federal do Ceará (IFCE), que é o ensino médio junto com o técnico. Foi uma ótima experiência porque, a partir desse momento, comecei a programar em Pascal e C. 
+Em 2010 tive meu primeiro contato com desenvolvimento Web, pois iniciei um curso de desenvolvimento básico de sites com HTML e CSS. 
+Entre 2014 e 2015 ingressei na Universidade Estadual do Ceará (UECE) no curso de Ciências da Computação. Lá eu fiz parte da Acens, empresa júnior que me fez conhecer as metodologias ágeis. A que mais utilizávamos era Scrum. Fiz parte de um projeto de desenvolvimento de site. 
+Durante o período que estive na UECE, programei em C e em Java.
+Em 2016 surgiu a oportunidade de realizar um sonho que era cursar Sistemas e Mídias Digitais (SMD) na Universidade Federal do Ceará, por esse motivo, tive de deixar a UECE.
+No SMD tive várias experiências em trabalho em equipe, porque basicamente em todos os semestres tínhamos de desenvolver um produto completo. 
+Nesse período comecei a desenvolver aplicativos mobiles para Android com o Android Studio. Durante minha passagem pelo SMD desenvolvi com as linguagens C, C++, C#, Java.
+Depois de concluir minha graduação, conheci a linguagem Dart e o Flutter. De toda a experiência que tive com programação, o que mais gostei foi programar em Java para aplicativos móveis, utilizando Android Studio e agora Flutter, que no momento, é a linguagem que mais estou me dedicando.
+
 
 <!--
 **RosileneMoufer/RosileneMoufer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
