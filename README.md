@@ -1,13 +1,40 @@
 <b>O que fiz até aqui:</b>
-<p>Entre 2009 e 2013 cursei Técnico Integrado em Telecomunicações no Instituto Federal do Ceará (IFCE), que é o ensino médio junto com o técnico. Foi uma ótima experiência porque, a partir desse momento, comecei a programar em Pascal e C.</p>
-<p>Em 2010 tive meu primeiro contato com desenvolvimento Web, pois iniciei um curso de desenvolvimento básico de sites com HTML e CSS. </p>
-<p>Entre 2014 e 2015 ingressei na Universidade Estadual do Ceará (UECE) no curso de Ciências da Computação. Lá eu fiz parte da Acens, empresa júnior que me fez conhecer as metodologias ágeis. A que mais utilizávamos era Scrum. Fiz parte de um projeto de desenvolvimento de site. </ br>
-Durante o período que estive na UECE, programei em C e em Java.</p>
-<p>Em 2016 surgiu a oportunidade de realizar um sonho que era cursar Sistemas e Mídias Digitais (SMD) na Universidade Federal do Ceará, por esse motivo, tive de deixar a UECE.</p>
-<p>No SMD tive várias experiências em trabalho em equipe, porque basicamente em todos os semestres tínhamos de desenvolver um produto completo. </p>
-<p>Nesse período comecei a desenvolver aplicativos mobiles para Android com o Android Studio. Durante minha passagem pelo SMD desenvolvi com as linguagens C, C++, C#, Java. </p>
-<p>Depois de concluir minha graduação, conheci a linguagem Dart e o Flutter. De toda a experiência que tive com programação, o que mais gostei foi programar em Java para aplicativos móveis, utilizando Android Studio e agora Flutter, que no momento, é a linguagem que mais estou me dedicando.</p>
-
+<li>
+  <b>2009 - 2013:</b> 
+  Técnico-Integrado em Telecomunicações no IFCE.
+</li>
+<li>
+  <b>2011:</b>
+  Primeiras linhas de código com as linguagens HTML, CSS e C.
+</li>
+<li>
+  <b>2014 - 2016:</b>
+  Ingressei em Ciências da Computação UECE (Não concluído).
+</li>
+<li>
+  <b>2014:</b>
+  Desenvolvimento em Java com Eclipse e NetBeans.
+</li>
+<li>
+  <b>2014 - 2015:</b>
+  Desenvolvedora Web e Gerente de Projetos na Acens, Empresa Júnior da UECE.
+</li>
+<li>
+  <b>2016 - 2019:</b>
+  Graduada em Sistemas e Mídias Digitais pela UFC.
+</li>
+<li>
+  <b>2017:</b>
+  Desenvolvimento em Android com o Android Studio em Java.
+</li>
+<li>
+  <b>2017 - 2018:</b>
+  Bolsista do Programa Institucional de Bolsas de Iniciaçõa Científica - PIBIC.
+</li>
+<li>
+  <b>2020:</b>
+  Estudando Dart e Flutter. 
+</li>
 
 <!--
 **RosileneMoufer/RosileneMoufer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
