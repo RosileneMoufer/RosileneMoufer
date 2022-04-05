@@ -29,7 +29,7 @@
 </li>
 <li>
   <b>2017 - 2018:</b>
-  Bolsista do Programa Institucional de Bolsas de Iniciaçõa Científica - PIBIC.
+  Bolsista do Programa Institucional de Bolsas de Iniciação Científica - PIBIC.
 </li>
 <li>
   <b>2020:</b>
