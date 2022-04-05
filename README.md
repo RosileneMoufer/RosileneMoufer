@@ -9,7 +9,7 @@
 </li>
 <li>
   <b>2014 - 2016:</b>
-  Ingressei em Ciências da Computação UECE (Não concluído).
+  Ingressei em Ciências da Computação na UECE (Não concluído).
 </li>
 <li>
   <b>2014:</b>
