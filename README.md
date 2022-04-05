@@ -17,7 +17,7 @@
 </li>
 <li>
   <b>2014 - 2015:</b>
-  Desenvolvedora Web e Gerente de Projetos na Acens, Empresa Júnior da UECE.
+  Desenvolvedora Web e Assistente de Projetos na Acens, Empresa Júnior da UECE.
 </li>
 <li>
   <b>2016 - 2019:</b>
