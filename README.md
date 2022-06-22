@@ -33,7 +33,11 @@
 </li>
 <li>
   <b>2020:</b>
-  Estudando Dart e Flutter. 
+  Primeiras linhas de código em Dart e Flutter. 
+</li>
+<li>
+  <b>2022:</b>
+  Estudando ReactNative.
 </li>
 
 <!--
