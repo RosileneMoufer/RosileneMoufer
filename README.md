@@ -39,6 +39,10 @@
   <b>2022:</b>
   Estudando ReactNative.
 </li>
+<li>
+  <b>2024:</b>
+  Jetpack Compose.
+</li>
 
 <!--
 **RosileneMoufer/RosileneMoufer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
