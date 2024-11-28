@@ -37,11 +37,11 @@
 </li>
 <li>
   <b>2022:</b>
-  Estudando ReactNative.
+  Desenvolvendo site com WordPress (PHP) 
 </li>
 <li>
   <b>2024:</b>
-  Jetpack Compose.
+  Bolsista no IREDE, trabalhando em projeto Android com Kotlin e Jetpack Compose.
 </li>
 
 <!--
